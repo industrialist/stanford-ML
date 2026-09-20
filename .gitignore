@@ -1,1 +1,8 @@
 Introduction to Machine Learning.pdf
+
+# Local credentials and interactive session state.
+token.mat
+octave-workspace
+.env
+.env.*
+!.env.example
